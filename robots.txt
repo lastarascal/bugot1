@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /post/*
+Disallow: /home/*
+Disallow: /sitemap/*
+Disallow: /clean.html
+Allow: /
+Sitemap: http://urlmu.com/xml-sitemap-index.xml
